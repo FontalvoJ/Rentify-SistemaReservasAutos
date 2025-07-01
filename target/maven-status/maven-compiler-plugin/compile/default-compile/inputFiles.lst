@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Config\ApplicationConfig.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Config\SecurityConfig.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Controllers\Authentication\AuthController.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Demo\DemoController.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\DemoApiBackendApplication.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Dtos\Auth\AuthResponse.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Dtos\Auth\LoginRequest.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Dtos\Auth\RegisterRequest.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Jwt\JwtAuthenticationFilter.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Jwt\JwtService.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Model\Client.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Model\Role.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Model\User.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Repositories\ClientRepository.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Repositories\RoleRepository.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Repositories\UserRepository.java
+C:\Users\DELL\Desktop\Rentify-SistemaReservasAutos\src\main\java\rentify\demo_api_backend\Services\Authentication\AuthService.java
