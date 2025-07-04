@@ -4,17 +4,16 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 @Builder
 @Entity
-@Table(name = "roles")
-public class Role {
+@Table(name = "sistemas")
+public class Systems {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    
-    @Column(name = "rolID")
+    @Column(name = "sistemaID")
     private Long id;
 
     @Column(name = "nombre", nullable = false, length = 100)

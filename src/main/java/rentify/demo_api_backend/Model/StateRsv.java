@@ -4,20 +4,18 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
+@AllArgsConstructor
 @Builder
 @Entity
-@Table(name = "roles")
-public class Role {
+@Table(name = "estado_rsv")
+public class StateRsv {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    
-    @Column(name = "rolID")
+    @Column(name = "estadoID")
     private Long id;
 
-    @Column(name = "nombre", nullable = false, length = 100)
-    private String nombre;
-
+    @Column(name = "descripcion", nullable = false, length = 100)
+    private String descripcion;
 }

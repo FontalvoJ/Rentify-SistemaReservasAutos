@@ -8,13 +8,12 @@ import lombok.*;
 @NoArgsConstructor
 @Builder
 @Entity
-@Table(name = "roles")
-public class Role {
+@Table(name = "acompanantes")
+public class Accompanists {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    
-    @Column(name = "rolID")
+    @Column(name = "acompanantesID")
     private Long id;
 
     @Column(name = "nombre", nullable = false, length = 100)
